@@ -3,6 +3,10 @@
 // 9/10/25
 // Task entity for task manager application
 
+// Jonathan Townsend
+// 9/23/26
+// ...
+
 package edu.fscj.cen3024c.taskmanager.entities;
 
 import jakarta.persistence.*;
